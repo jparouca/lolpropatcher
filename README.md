@@ -1,2 +1,2 @@
 # lolskinupdator
-SImple python executable to automatcally update lolskin once executed
+Simple python executable to automatically update LOLSKIN once executed
