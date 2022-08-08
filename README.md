@@ -1,6 +1,6 @@
 # LOL Pro Patcher
 
-Simple python executable to automatically update LOLSKIN once executed
+Simple python executable to automatically download updated LOLSKIN once executed
 
 
 ## Demo
